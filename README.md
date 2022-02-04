@@ -7,6 +7,7 @@ Our quiz app contains a total of five-screen, the login screen where a user subm
 - Muhammad Ammar Zakwan bin Amran (1712711)
 - Nuraina Nazihah binti Norazlan (1814478)
 - Siti Nur Adawiyah Binti Khairul Akmal (1915478)
+- Nazurah binti Imran (1911264)
 
 ## Objective
 
