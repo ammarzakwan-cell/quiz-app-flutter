@@ -2,6 +2,17 @@
 
 Our quiz app contains a total of five-screen, the login screen where a user submits their email and password, the registration screen where new user register, the welcome screen where it shows three buttons which is attempt quiz, about this app, and logout, and last is the questions screen. Each question has 4 options once the user clicks on the option it will move to the next question. At the end score screen where you can check your score. For state management, we use the getX package.
 
+## project members
+
+Muhammad Ammar Zakwan bin Amran (1712711)
+Nuraina Nazihah binti Norazlan (1814478)
+
+## Objective
+
+- To test our knowledge on the countries around the world
+- At the same time, to also expand our knowledge more on that topic
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
