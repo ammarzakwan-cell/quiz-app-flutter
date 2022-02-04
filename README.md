@@ -4,8 +4,8 @@ Our quiz app contains a total of five-screen, the login screen where a user subm
 
 ## project members
 
-Muhammad Ammar Zakwan bin Amran (1712711)
-Nuraina Nazihah binti Norazlan (1814478)
+- Muhammad Ammar Zakwan bin Amran (1712711)
+- Nuraina Nazihah binti Norazlan (1814478)
 
 ## Objective
 
