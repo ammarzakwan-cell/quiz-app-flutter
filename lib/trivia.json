@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which city is the capital of the United States of America?",
+            "correct_answer": "Washington D.C",
+            "incorrect_answers": [
+                "Seattle",
+                "Albany",
+                "Los Angeles"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which country does Austria not border?",
+            "correct_answer": "France",
+            "incorrect_answers": [
+                "Slovenia",
+                "Switzerland",
+                "Slovakia"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the capital of Denmark?",
+            "correct_answer": "Copenhagen",
+            "incorrect_answers": [
+                "Aarhus",
+                "Odense",
+                "Aalborg"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following languages does NOT use the Latin alphabet?",
+            "correct_answer": "Georgian",
+            "incorrect_answers": [
+                "Turkish",
+                "Swahili",
+                "Vietnamese"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the official language of Costa Rica?",
+            "correct_answer": "Spanish",
+            "incorrect_answers": [
+                "English",
+                "Portuguese",
+                "Creole"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these is the name of the largest city in the US state Tennessee?",
+            "correct_answer": "Memphis",
+            "incorrect_answers": [
+                "Thebes",
+                "Alexandria",
+                "Luxor"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of New Zealand&#039;s indigenous people?",
+            "correct_answer": "Maori",
+            "incorrect_answers": [
+                "Vikings",
+                "Polynesians",
+                "Samoans"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the capital of India?",
+            "correct_answer": "New Delhi",
+            "incorrect_answers": [
+                "Bejing",
+                "Montreal",
+                "Tithi"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which country was NOT part of the Soviet Union?",
+            "correct_answer": "Romania",
+            "incorrect_answers": [
+                "Turkmenistan",
+                "Belarus",
+                "Tajikistan"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the largest country in the world ?",
+            "correct_answer": "Russian Federation",
+            "incorrect_answers": [
+                "China",
+                "Canada",
+                "Brazil"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829722350650",
+    "project_id": "quizapplogin-90d21",
+    "storage_bucket": "quizapplogin-90d21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829722350650:android:97f5fc8209eba87ab01103",
+        "android_client_info": {
+          "package_name": "com.adawiyah.quizapp_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829722350650-i517t3q9q5gphg937bmoece50k1e7ll2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2NFS_pi0f02QsA3WHuAKmSvlJEcVIdxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829722350650-i517t3q9q5gphg937bmoece50k1e7ll2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
